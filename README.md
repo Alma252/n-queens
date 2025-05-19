@@ -1,4 +1,4 @@
-# n-Queens Solver with Backtracking and Genetic Al gorithms
+# n-Queens Solver with Backtracking and Genetic Al gorithms ♕ ♛
 
 ![sddefault](https://github.com/user-attachments/assets/1c37467d-0ff7-44dc-b43e-bf6d8332a971)
 
@@ -13,7 +13,7 @@ Additionally, it features a user-friendly graphical interface built with **Tkint
 
 
 
-## Features :chess_pawn:
+## Features 👑♟️🏆
 - Solve n-Queens using Backtracking and Genetic algorithms  
 - Interactive GUI to input board size and choose the algorithm  
 - Visual display of the chessboard and queen positions  
