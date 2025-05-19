@@ -19,7 +19,7 @@ Additionally, it features a user-friendly graphical interface built with **Tkint
 - Visual display of the chessboard and queen positions  
 - Easily extendable and customizable codebase  
 
-## How to Use 
+## How to Use :question:
 1. Clone or download the repository  
 2. Run the main Python file:  
    ```bash
