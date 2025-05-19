@@ -9,7 +9,7 @@ It includes implementations of:
 - A **Genetic Algorithm**  
 Additionally, it features a user-friendly graphical interface built with **Tkinter** for interactive solving and visualization.
 ![image](https://github.com/user-attachments/assets/ef95d25a-8746-4953-a7d9-0eb355a90c9e)
-![image](https://github.com/user-attachments/assets/bcb71556-f784-4264-a059-2993b4d7a503)
+   ![image](https://github.com/user-attachments/assets/bcb71556-f784-4264-a059-2993b4d7a503)
 
 
 
