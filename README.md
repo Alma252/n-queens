@@ -2,7 +2,7 @@
 
 ![sddefault](https://github.com/user-attachments/assets/1c37467d-0ff7-44dc-b43e-bf6d8332a971)
 
-## Overview
+## Overview :chess_pawn: :chess_pawn:
 This project provides two solutions to the classic **n-Queens problem** — placing n queens on an n×n chessboard so that no two queens threaten each other.  
 It includes implementations of:  
 - A **Backtracking** algorithm  
