@@ -1,4 +1,6 @@
-# n-Queens Solver with Backtracking and Genetic Algorithms
+# n-Queens Solver with Backtracking and Genetic Al
+![sddefault](https://github.com/user-attachments/assets/1c37467d-0ff7-44dc-b43e-bf6d8332a971)
+gorithms
 
 ## Overview
 This project provides two solutions to the classic **n-Queens problem** — placing n queens on an n×n chessboard so that no two queens threaten each other.  
@@ -6,6 +8,8 @@ It includes implementations of:
 - A **Backtracking** algorithm  
 - A **Genetic Algorithm**  
 Additionally, it features a user-friendly graphical interface built with **Tkinter** for interactive solving and visualization.
+![image](https://github.com/user-attachments/assets/ef95d25a-8746-4953-a7d9-0eb355a90c9e)
+
 
 ## Features
 - Solve n-Queens using Backtracking and Genetic algorithms  
@@ -18,3 +22,4 @@ Additionally, it features a user-friendly graphical interface built with **Tkint
 2. Run the main Python file:  
    ```bash
    python main.py
+Developed by Sheyda Askari:)
